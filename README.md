@@ -1,6 +1,24 @@
+___
 ## Hello there! 👋
 
 ![hello there](hellothere.gif)
+
+
+___
+## Mes experiences
+
+* ### Apple Fondation Program: <br>
+Initiation au **Swift** <img src="logo/swift.svg" width="15px">, **SwiftUI** <br>
+Maquettage et développement de la partie front-end d'une application en groupe<br>
+[Repo de l'application]()
+
+
+* ### Formation développeur Intégrateur: <br>
+**Git** / **Github** <img src="logo/github.png" width="15px">, **Html** <img src="logo/html.png" width="14px">, **CSS** <img src="logo/css.png" width="15px"> , **Scss** <img src="logo/sass.svg" width="20px"> , initiation à **Javascript** <img src="logo/js.png" width="15px"> <br>
+[Premier projet - Découverte du Scss](https://github.com/BouchartLaurine/brief-g2) <br>
+[Deuxième projet - Le responsive et première utilisation de JS](https://github.com/Damien-Trouart/brief_co2web)
+___
+
 
 <!--
 **Damien-Trouart/Damien-Trouart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +33,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-
+
