@@ -18,6 +18,10 @@ Maquettage et développement de la partie front-end d'une application en groupe<
 [Premier projet - Découverte du Scss](https://github.com/BouchartLaurine/brief-g2) <br>
 [Deuxième projet - Le responsive et première utilisation de JS](https://github.com/Damien-Trouart/brief_co2web) <br>
 [Stage - Refonte totale d'un site nocode en HTML, CSS, JS et responsive pour une cliente créatrice de robes de mariées](https://github.com/Damien-Trouart/boutique-robe-mariage)
+
+
+* ### Formation développeur web web/mobile fullstack: <br>
+**Javascript** <img src="logo/js.png" width="15px"> **Typescript** **SQL** **PHP**
 ___
 
 
