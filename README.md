@@ -27,7 +27,7 @@ Maquettage et développement de la partie front-end d'une application en groupe<
 * ### Formation développeur web web/mobile fullstack: <br>
 **Javascript** <img src="logo/js.png" width="15px">, **Typescript** <img src="logo/typescript.png" width="15px">, **SQL** <img src="logo/sql.png" width="12px">, **PHP** <img src="logo/php.png" width="25px"> <br>
 Vue d'ensemble des fondamentaux front-end, back-end et bases de données pour produire des sites dynamiques fonctionnels <br>
-[🏗️ En développement 👷 - Projet recoupant toutes les notions principales abordées durant la formation : site de backlog de jeux vidéos 🎮🗂️✅](https://github.com/Damien-Trouart/games-vault)
+[🏗️ En développement 👷 - Projet recoupant toutes les notions principales abordées durant la formation : site de backlog de jeux vidéos 🎮🗂✅](https://github.com/Damien-Trouart/games-vault)
 
 ___
 
